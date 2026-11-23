@@ -4,7 +4,7 @@
 
 Yoonho Shin, LG Uplus
 
-Paper: arXiv (link coming soon)
+Paper: [arXiv:2611.25508](https://arxiv.org/abs/2611.25508)
 
 ## About
 
@@ -30,3 +30,17 @@ The choice of a lens therefore depends on cost and model size.
 ## Code and data
 
 This repository holds only this page for now. The code, the preregistered protocol files, the per-trial logs and the generated pages will be released later. Screenshots of live pages are copyrighted and will not be redistributed, so the release will give their URLs, capture dates and the capture script instead.
+
+## Citation
+
+```bibtex
+@misc{shin2026personalensesmakesvisionlanguage,
+  title={Persona Lenses: What Makes a Vision-Language Model See Through Its Persona's Eyes?},
+  author={Yoonho Shin},
+  year={2026},
+  eprint={2611.25508},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2611.25508},
+}
+```
